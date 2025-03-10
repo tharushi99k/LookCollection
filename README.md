@@ -1,6 +1,6 @@
 # LookCollection - Clothing E-Commerce Website & Dashboard 👕🛍️
 
-#Pending....
+on-going....
 
 LookCollection is a modern e-commerce platform for clothing brands, featuring a customer shopping experience and an admin dashboard for order and inventory management.
 
